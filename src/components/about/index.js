@@ -23,7 +23,6 @@ function About() {
           <a href="https://github.com/kent28808" className="card-link">GitHub</a>
         </div>
       </div>
-      {/* end copy paste  */}
     </div>
   );
 }

@@ -1,7 +1,7 @@
 import React from "react";
 import { Link, Route } from "react-router-dom";
 import Learn from "./Learn";
-import ContactCard from "../ContactCard";
+import Contact from "../contact";
 
 function Contact(props) {
   return (

@@ -1,7 +1,7 @@
 import React from "react";
-import AboutCard from '../about'
+import About from '../about'
 
-function About() {
+function AboutCard() {
   return (
     <div>
 
@@ -10,4 +10,4 @@ function About() {
   );
 }
 
-export default About;
+export default AboutCard;
