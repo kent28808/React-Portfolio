@@ -1,9 +1,15 @@
 import React from "react";
+import {Link} from "react-router-dom"
 
 function Header(){
     return (
     <nav className="navbar navbar-light bg-light fixed-top">
-      <a className="navbar-brand" href="#">Navbar</a>
+      <Link className="navbar-brand" to="/">Navbar</Link>
+        <ul className="navbar-nav ml-auto">
+        <li className="nav-item">
+          <Link className="nav-link"to="/about">About</Link>
+        </li>
+        </ul>
     </nav>
     )
 }
