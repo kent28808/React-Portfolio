@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Gym Heroes",
+      "image": "",
+      "project": "Workout App",
+      "location": "https://github.com/kent28808/Project-01"
+    },
+    {
+      "id": 2,
+      "name": "Employee Summary",
+      "image": "",
+      "project": "Employee-Summary",
+      "location": "https://github.com/kent28808/TemplateEngine-EmployeeSummary"
+    },
+    {
+      "id": 3,
+      "name": "Employee Tracker",
+      "image": "",
+      "project": "Employee-Tracker",
+      "location": "https://github.com/kent28808/Employee-Tracker/"
+    },
+    {
+      "id": 4,
+      "name": "Future Endeavors",
+      "image": "",
+      "project": "Future Endeavors",
+      "location": "https://github.com/kent28808/Project-2"
+    },
+    {
+      "id": 5,
+      "name": "Eat-da-Burger",
+      "image": "",
+      "project": "Eat-da-Burger",
+      "location": "https://github.com/kent28808/Burger-Express-Handlebars"
+    },
+    {
+      "id": 6,
+      "name": "Fitness Tracker",
+      "image": "",
+      "project": "Fitness Tracker",
+      "location": "https://github.com/kent28808/Fitness-Tracker"
+    }
+  ]
+  
