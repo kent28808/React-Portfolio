@@ -1,33 +1,25 @@
-import React, { Component } from "react";
-import Header from "./components/header"
-import Footer from "./components/footer"
-import Container from "./components/container"
-import { Switch, Route, BrowserRouter as Router } from "react-router-dom"
-import Home from "./components/home"
-import About from "./components/about"
-import "./App.css";
+import React from "react";
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import NavTabs from "./components/nav";
+import Header from "./components/header";
+import Footer from "./components/footer";
+import Home from "./components/pages/home";
+import About from "./components/pages/about";
+import Contact from "./components/pages/about";
 
 function App() {
   return (
-    <div className="App">
-      <Router>
-
+    <Router>
+      <div>
         <Header />
-        <Container>
-          <Switch>
-            <Route exact path="/about">
-              <About />
-            </Route>
-            <Route path="/">
-              <Home />
-            </Route>
-          </Switch>
-        </Container>
+        <NavTabs />
+        <Route exact path="/" component={Home} />
+        <Route exact path="/about" component={About} />
+        <Route path="/contact" component={Contact} />
         <Footer />
-      </Router>
-    </div>
+      </div>
+    </Router>
   );
 }
-
 
 export default App;

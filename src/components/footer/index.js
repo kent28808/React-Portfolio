@@ -1,13 +1,15 @@
 import React from "react";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 
-function Footer(){
+
+function Footer(props) {
     return (
-    <footer className="footer mt-auto py-3">
-        <div className="container">
-            <span>Footer</span>
+
+        <div class="footer bg-info">
+            <p>Ken T.</p>
         </div>
-    </footer>
-    )
+
+    );
 }
 
 export default Footer;

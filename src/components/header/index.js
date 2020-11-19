@@ -1,17 +1,15 @@
 import React from "react";
-import {Link} from "react-router-dom"
+import { BrowserRouter as Router, Route } from "react-router-dom";
 
-function Header(){
+
+function Header(props) {
     return (
-    <nav className="navbar navbar-light bg-light fixed-top">
-      <Link className="navbar-brand" to="/">Navbar</Link>
-        <ul className="navbar-nav ml-auto">
-        <li className="nav-item">
-          <Link className="nav-link"to="/about">About</Link>
-        </li>
-        </ul>
-    </nav>
-    )
+
+        <header className="header bg-info">
+            <a href="https://github.com/kent28808"> <h1 className="text-white">Ken T. </h1></a>
+        </header>
+
+    );
 }
 
 export default Header;
