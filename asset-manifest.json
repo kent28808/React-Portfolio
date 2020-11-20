@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.f0436b46.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.93ab10d7.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.93ab10d7.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.1dc611d5.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.1dc611d5.js.map",
+    "static/js/2.9ad06b72.chunk.js": "/React-Portfolio/static/js/2.9ad06b72.chunk.js",
+    "static/js/2.9ad06b72.chunk.js.map": "/React-Portfolio/static/js/2.9ad06b72.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.f0436b46.chunk.css.map": "/React-Portfolio/static/css/main.f0436b46.chunk.css.map",
+    "static/js/2.9ad06b72.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.9ad06b72.chunk.js.LICENSE.txt",
+    "static/media/Burgers.56487367.png": "/React-Portfolio/static/media/Burgers.56487367.png",
+    "static/media/Employee.d287fb25.png": "/React-Portfolio/static/media/Employee.d287fb25.png",
+    "static/media/EmployeeTracker.b2c201cb.gif": "/React-Portfolio/static/media/EmployeeTracker.b2c201cb.gif",
+    "static/media/FitnessTracker.b001c87c.gif": "/React-Portfolio/static/media/FitnessTracker.b001c87c.gif",
+    "static/media/GYMHEROES.d2493e04.png": "/React-Portfolio/static/media/GYMHEROES.d2493e04.png",
+    "static/media/profile.16986cf7.jpg": "/React-Portfolio/static/media/profile.16986cf7.jpg",
+    "static/media/project2.5fccd411.gif": "/React-Portfolio/static/media/project2.5fccd411.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dc611d5.js",
+    "static/js/2.9ad06b72.chunk.js",
+    "static/css/main.f0436b46.chunk.css",
+    "static/js/main.93ab10d7.chunk.js"
+  ]
+}
