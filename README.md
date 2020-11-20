@@ -7,7 +7,7 @@
 This is my portfolio page that has been updated with the recent projects completed in this course utilizing the library React.
 
 
-![React Portfolio](Assets/readme-photo)
+![React Portfolio](https://github.com/kent28808/React-Portfolio/blob/main/public/portfolio.png)
 
 
 ## Built With
