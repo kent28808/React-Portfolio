@@ -1,6 +1,7 @@
 import React from "react";
+// import ContactPNG from ""
 
-function Contact(props) {
+function ContactCard(props) {
     return (
 
         <div className="contact-card">
@@ -13,7 +14,7 @@ function Contact(props) {
 
                     <a href="https://github.com/kent28808" className="ml-4 mt-4 font-weight-bold">GitHub</a>
 
-                    <img src={ContactPNG} alt="profile-photo" className="profile float-left"></img>
+                    {/* <img src={ContactPNG} alt="profile-photo" className="profile float-left"></img> */}
                 </div>
             </div>
         </div >
@@ -22,4 +23,4 @@ function Contact(props) {
     );
 }
 
-export default Contact;
+export default ContactCard;

@@ -1,5 +1,5 @@
 import React from "react";
-
+import Profile from "../../assets/profile.jpg"
 
 function About() {
   return (
@@ -12,11 +12,7 @@ function About() {
         <div className="mt-3">
           <p>Aloha! My name is Ken, welcome to my portfolio! I recently moved to the California and have worked in the Construction Industry for the past 7 years. I am excited to embark on a new journey into the Tech Industry!</p>
 
-          <p>
-            <a href="mailto:kent28808@gmail.com"
-              target="_blank">kent28808@gmail.com, </a> through<a
-                href="https://github.com/kent28808"> GitHub</a>
-          </p>
+
         </div>
 
         <div className="card-body contactLinks">

@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 function NavTabs() {
     return (
-        <div className="container-nav">
+        <div className="container-nav w-30">
             <ul className="nav nav-tabs">
                 <li className="nav-item">
                     <Link to="/" className={window.location.pathname === "/" ? "nav-link active" : "nav-link"}>
