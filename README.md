@@ -53,4 +53,4 @@ SOFTWARE.
 
 ## Acknowledgments
 
-* Hats off to instructional staff, all technology libraries used, youtube, and wger.de for their apis. 
+* Hats off to instructional staff, all technology libraries used.
