@@ -10,7 +10,7 @@ function About() {
       <div>
 
         <div className="mt-3">
-          <p>Aloha! My name is Ken, welcome to my portfolio! I recently moved to the California and have worked in the Construction Industry for the past 7 years. I am excited to embark on a new journey into the Tech Industry!</p>
+          <p>Aloha! My name is Ken, welcome to my portfolio! I am a Result-driven Full-Stack Developer with a construction and engineering background interested in learning and applying new techniques to build applications to help enrich the lives of many. Recently earned a certificate in Full Stack Web Development from UC Berkeley with acquired expertise in HTML, CSS, JavaScript, jQuery.js, React.js, and MERN. Known to be highly motivational and collaborative, Was able to work on multiple projects with various team members while utilizing Zoom, Slack, Github, and Gitlab during the 2020 Pandemic. I am excited to embark on a new journey into the Tech Industry!</p>
 
 
         </div>
