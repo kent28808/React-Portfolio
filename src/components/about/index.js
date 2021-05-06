@@ -17,6 +17,7 @@ function About() {
 
         <div className="card-body contactLinks">
           <a href="https://github.com/kent28808" className="card-link">GitHub</a>
+          <a href="kent28808@gmail.com" className="card-link">Email</a>
         </div>
       </div>
     </div>
